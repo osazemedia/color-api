@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "message": "Color extraction successful",
+    "result": {
+        "gradient": {
+            "main": "#000000",
+            "on": "#ffffff",
+            "variant": "#000000",
+            "dark": "#000000"
+        }
+    }
+}
